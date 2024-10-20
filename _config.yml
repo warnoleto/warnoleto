@@ -1,5 +1,5 @@
-title: My GitHub Page
-description: This is my personal blog.
+title: warnoleto articles
+description: This is intended only document and share some technical stydies.
 #theme: minima
 markdown: kramdown
 remote_theme: pages-themes/cayman@v0.2.0
