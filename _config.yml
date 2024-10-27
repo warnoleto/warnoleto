@@ -7,3 +7,5 @@ plugins:
 - jekyll-remote-theme
 
 show_downloads: false
+site:
+  show_downloads: false
